@@ -4,4 +4,4 @@ WebScribe Issues
 
 https://github.com/twinberrylane/webscribe_issues/issues/new
 
-https://github.com/twinberrylane/webscribe_issues
+https://github.com/twinberrylane/webscribe_issues/issues
